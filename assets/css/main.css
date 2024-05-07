@@ -4243,7 +4243,7 @@ input, select, textarea {
 					align-items: center;
 					padding: 3.15rem 4rem;
 					background-color: #ffffff;
-					color: white;
+					/* color: white; */
 				}
 
 					#footer > section.split.contact > section > * {
